@@ -32,7 +32,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
 
    ![EmbedConfig image](https://github.com/boldbi/vue-with-php-sample/assets/129487075/057ebe6b-ec0a-49bc-af8e-9121b86f1f34)
 
-## Run a Samples Using Visual Studio Code
+## Run a PHP Sample
  
  * Open the PHP sample in visual studio code or any respective IDE.
  
@@ -82,7 +82,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
 
    ![Dashboard view](https://github.com/boldbi/vue-with-php-sample/assets/129487075/abc18903-e010-492b-88d3-5272daf0e708)
    
-> **NOTE:** If the API host is already in use, modify the port number according to your preference and update it in the Dashboard.js file.
+> **NOTE:** If the API host is already in use, modify the port number according to your preference and update it in the App.vue file.
 
 ## Online demos
 

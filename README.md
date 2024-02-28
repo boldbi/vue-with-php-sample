@@ -4,7 +4,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
 
 ## Dashboard view
 
-   ![Dashboard view](https://github.com/bold-bi/embedded-bi-samples/assets/129487075/c29cbbe8-5f26-462d-adf6-3aa234be21c3)
+   ![Dashboard view](https://github.com/boldbi/vue-with-php-sample/assets/129487075/717ec161-f4d2-4dca-9fc9-91f6feef7d39)
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
 
  * Copy the downloaded `embedConfig.json` file and paste it into the designated [location](https://github.com/boldbi/vue-with-php-sample/tree/master/PHP) within the application. Please ensure that you have placed it in the application as shown in the following image.
 
-   ![EmbedConfig image](https://github.com/bold-bi/embedded-bi-samples/assets/129487075/38f5792f-871f-44e0-9040-65e1796e4fb4)
+   ![EmbedConfig image](https://github.com/boldbi/vue-with-php-sample/assets/129487075/057ebe6b-ec0a-49bc-af8e-9121b86f1f34)
 
 ## Run a Samples Using Visual Studio Code
  
@@ -48,7 +48,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
    
   * To install all dependent packages, use the following command `npm install`.
  
-  * Finally, run the application using the following command `npm start`.  After executing the command, the application will automatically launch in the default browser. You can access it at the specified port number (e.g., https://localhost:3000).
+  * Finally, run the application using the following command `npm run serve`. After the application has started, it will display a URL in the `command line interface`, typically something like (e.g., http://localhost:8081). Copy this URL and paste it into your default web browser. 
 
 ## Developer IDE
 
@@ -80,7 +80,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
 
  * After the application has started, it will display a URL in the `command line interface`, typically something like (e.g., http://localhost:8081). Copy this URL and paste it into your default web browser.
 
-   ![Dashboard view](https://github.com/bold-bi/embedded-bi-samples/assets/129487075/ff19aa1d-9565-4e7f-96f6-6ba1988c11a3)
+   ![Dashboard view](https://github.com/boldbi/vue-with-php-sample/assets/129487075/abc18903-e010-492b-88d3-5272daf0e708)
    
 > **NOTE:** If the API host is already in use, modify the port number according to your preference and update it in the Dashboard.js file.
 

@@ -64,7 +64,7 @@ This project was created using Vue with PHP. The Vue sample acts as the front-en
       php -S localhost:8080
    ```
 
- * Open the Vue sample in Visual studio code.
+ * Open the Vue sample in **Visual Studio Code**.
 
  * Install all dependent packages, use the below command
 
